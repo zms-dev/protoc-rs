@@ -1,0 +1,9 @@
+[package]
+name = "protocrust-lexer"
+version.workspace = true
+authors.workspace = true
+repository.workspace = true
+edition.workspace = true
+
+[dependencies]
+miette = { workspace = true }
